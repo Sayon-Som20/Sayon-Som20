@@ -1,7 +1,7 @@
 [![MasterHead](https://media4.giphy.com/media/lS6SSWh0MG4vH14ysj/giphy.gif?cid=ecf05e47mbtsr1luzj5q1275zj2mm5o749mdbvnhda9gzso2&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Sayon Som</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47mbtsr1luzj5q1275zj2mm5o749mdbvnhda9gzso2&rid=giphy.gif&ct=g")
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47mbtsr1luzj5q1275zj2mm5o749mdbvnhda9gzso2&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayon&label=Profile%20views&color=0e75b6&style=flat" alt="sayon" /> </p>
 
